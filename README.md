@@ -1,6 +1,6 @@
 # MOND2: Core Field Equation and Applications in Newtonian & Einsteinian Gravity
 
-## 1. Core Equation (`M_bare + M_field`)
+## 1. Core Equation (`M_bare + M_field`) is based on the QFT
 Starting from bare baryonic mass $M$ ($M_{\text{bare}}$) dressing a background field ($M_{\text{field}}$), the radial gravitational acceleration is governed by:
 
 $$a(r) = \frac{GM}{2r^2} + \sqrt{\left(\frac{GM}{2r^2}\right)^2 + \frac{GM \cdot a_0 \cdot \eta \cdot D(r)}{r^2}}$$
